@@ -5,7 +5,7 @@ My scientific work lies on the intersect of cognitive and computational neurosci
 I am passionate about uncovering how the temporal dynamics of the early visual system implement visual attention and perception.
 
 
-## Repositories:
+## Repositories
 
 ### /posters
 contains posters presented at conferences after May 2022.
