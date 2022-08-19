@@ -7,6 +7,12 @@ I am passionate about uncovering how the temporal dynamics of the early visual s
 
 ## Repositories:
 
+### /posters
+contains posters presented at conferences after May 2022.
+
+### /CV 
+resumee updated in August 2022.
+
 ### /dnn-osci 
 contains Python scripts implementing a simple neural network that embraces the temporal dynamics of the visual system. These scripts are work in progress and updated irregularly
 
@@ -17,4 +23,6 @@ contains scripts for MEG pre-processing and coherence analysis for a Visual Sear
 contains MATLAB scripts that I wrote to analyze MEG data for a project investigating synchronization between endogenous neuronal oscillations and a rapid (invisible) photic drive. 
 ### /ent-jns-reviews 
 contains the manuscript files for the gamma entrainment project. Please see [Duecker et al, 2021, J Neurosci](https://www.jneurosci.org/content/41/31/6684)
+
+
 
