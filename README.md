@@ -11,7 +11,7 @@ I am passionate about uncovering how the temporal dynamics of the early visual s
 contains posters presented at conferences after May 2022.
 
 ### /CV 
-resumee updated in August 2022.
+resumee updated in June 2023.
 
 ### /dnn-osci 
 contains Python scripts implementing a simple neural network that embraces the temporal dynamics of the visual system. These scripts are work in progress.
