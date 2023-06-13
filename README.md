@@ -2,7 +2,7 @@
 
 I am a PhD candidate at the University of Birmingham, UK, working under supervision of Prof Ole Jensen and Prof Kim Shapiro.
 My scientific work lies on the intersect of cognitive and computational neuroscience and Machine Learning. 
-I am passionate about uncovering how the temporal dynamics of the early visual system implement visual attention and perception.
+I am passionate about uncovering how the temporal dynamics of the early visual system support visual attention and perception.
 
 
 ## Repositories
