@@ -1,7 +1,4 @@
-# Katharina Duecker, MSc
-
-I am a PhD candidate at the University of Birmingham, UK, working under supervision of Prof Ole Jensen and Prof Kim Shapiro.
-My scientific work lies on the intersection of cognitive and computational neuroscience and Machine Learning. 
+I'm a postdoctoral research associate in the computational neuroscience lab of Prof. Stephanie Jones at the Carney Institute for Brain Science, Brown University.
 I am passionate about uncovering how the temporal dynamics of the early visual system support visual attention and perception.
 
 
